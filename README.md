@@ -13,3 +13,6 @@
 -->
 
 - 🔭 I received the B.E. degree from Fudan University in 2025. I am currently pursuing the Ph.D degree with the School of College of Integrated Circuits and Micro-Nano Electronics, Fudan University.
+- 🌱 I work on Computer Architecture and Efficient AI.
+
+
